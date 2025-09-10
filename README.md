@@ -19,9 +19,8 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation instruction
-```
+
 Git clone https://github.com/sheilawuor/code-challenge-1.git
-```
 
 
 ## Technologies used
