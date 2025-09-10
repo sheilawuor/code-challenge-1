@@ -1,0 +1,91 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and distribution directories
+dist/
+build/
+out/
+public/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.~lock.*#
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Bundler and build tool cache
+.cache/
+.parcel-cache/
+.webpack-cache/
+
+# Testing related
+coverage/
+.nyc_output/
+
+# Dependency lock files (optional, depends on your preference)
+package-lock.json
+yarn.lock
+
+# Compiled binary addons (optional)
+build/Release
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.test
+
+# Miscellaneous
+.grunt
+.DS_Store 
